@@ -1,0 +1,3150 @@
+fileFormatVersion: 2
+guid: a7aa7202f63b64e4799e6d0dac971742
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GAME_PARTS_0
+    21300002: GAME_PARTS_1
+    21300004: GAME_PARTS_2
+    21300006: GAME_PARTS_3
+    21300008: GAME_PARTS_4
+    21300010: GAME_PARTS_5
+    21300012: GAME_PARTS_6
+    21300014: GAME_PARTS_7
+    21300016: GAME_PARTS_8
+    21300018: GAME_PARTS_9
+    21300020: GAME_PARTS_10
+    21300022: GAME_PARTS_11
+    21300024: GAME_PARTS_12
+    21300026: GAME_PARTS_13
+    21300028: GAME_PARTS_14
+    21300030: GAME_PARTS_15
+    21300032: GAME_PARTS_16
+    21300034: GAME_PARTS_17
+    21300036: GAME_PARTS_18
+    21300038: GAME_PARTS_19
+    21300040: GAME_PARTS_20
+    21300042: GAME_PARTS_21
+    21300044: GAME_PARTS_22
+    21300046: GAME_PARTS_23
+    21300048: GAME_PARTS_24
+    21300050: GAME_PARTS_25
+    21300052: GAME_PARTS_26
+    21300054: GAME_PARTS_27
+    21300056: GAME_PARTS_28
+    21300058: GAME_PARTS_29
+    21300060: GAME_PARTS_30
+    21300062: GAME_PARTS_31
+    21300064: GAME_PARTS_32
+    21300066: GAME_PARTS_33
+    21300068: GAME_PARTS_34
+    21300070: GAME_PARTS_35
+    21300072: GAME_PARTS_36
+    21300074: GAME_PARTS_37
+    21300076: GAME_PARTS_38
+    21300078: GAME_PARTS_39
+    21300080: GAME_PARTS_40
+    21300082: GAME_PARTS_41
+    21300084: GAME_PARTS_42
+    21300086: GAME_PARTS_43
+    21300088: GAME_PARTS_44
+    21300090: GAME_PARTS_45
+    21300092: GAME_PARTS_46
+    21300094: GAME_PARTS_47
+    21300096: GAME_PARTS_48
+    21300098: GAME_PARTS_49
+    21300100: GAME_PARTS_50
+    21300102: GAME_PARTS_51
+    21300104: GAME_PARTS_52
+    21300106: GAME_PARTS_53
+    21300108: GAME_PARTS_54
+    21300110: GAME_PARTS_55
+    21300112: GAME_PARTS_56
+    21300114: GAME_PARTS_57
+    21300116: GAME_PARTS_58
+    21300118: GAME_PARTS_59
+    21300120: GAME_PARTS_60
+    21300122: GAME_PARTS_61
+    21300124: GAME_PARTS_62
+    21300126: GAME_PARTS_63
+    21300128: GAME_PARTS_64
+    21300130: GAME_PARTS_65
+    21300132: GAME_PARTS_66
+    21300134: GAME_PARTS_67
+    21300136: GAME_PARTS_68
+    21300138: GAME_PARTS_69
+    21300140: GAME_PARTS_70
+    21300142: GAME_PARTS_71
+    21300144: GAME_PARTS_72
+    21300146: GAME_PARTS_73
+    21300148: GAME_PARTS_74
+    21300150: GAME_PARTS_75
+    21300152: GAME_PARTS_76
+    21300154: GAME_PARTS_77
+    21300156: GAME_PARTS_78
+    21300158: GAME_PARTS_79
+    21300160: GAME_PARTS_80
+    21300162: GAME_PARTS_81
+    21300164: GAME_PARTS_82
+    21300166: GAME_PARTS_83
+    21300168: GAME_PARTS_84
+    21300170: GAME_PARTS_85
+    21300172: GAME_PARTS_86
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GAME_PARTS_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1401
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801bd43551bb4c64089a1f5c1c31aa0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1401
+        width: 126
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dd333574d0b794890bb4e4cf8efe99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1401
+        width: 126
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4482b3d37f95d8249adb17011f812176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1471
+        width: 73
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046f98957dabaaf4e93252c69aea75d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_4
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1349
+        width: 65
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a775738ea8239642a284b922afbbc7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1346
+        width: 80
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb5c0e6c6988fd4181621cec85e1799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1401
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec89ea734bc3ce46b1755ba84cc2fde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_7
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1431
+        width: 172
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5f9169e90695349a95b00b67030dc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_8
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1297
+        width: 273
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04393dfc535fb2543b8c911f157b1e57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_9
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1345
+        width: 301
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18ad819d3be83446bde6bd1f01f79f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_10
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1410
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f0c5f22d73651458de489b1ae88c62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_11
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1407
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192161de165f1ea428654c9b69b51c9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_12
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1319
+        width: 149
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a4e84caf088574c80b2447c58ac37a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1262
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328d7eaef70b8de49bf6f4379c9a2e32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1269
+        width: 42
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38755ac49ae8536428e24380392c514e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1269
+        width: 67
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1789ebbc2dc59a4693a6c0a46a16b2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_16
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1269
+        width: 67
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924d716507c8cae4fa61e07d93076958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_17
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1352
+        width: 73
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5771baee48ba6a54eb90f47f68520493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_18
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1338
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d692f1b28ab2d4caa8fdf91398101b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_19
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1317
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a005cdb68b083f4bb1af40ac91d3e00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_20
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1238
+        width: 168
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6441042a5d963e42b7f67e37b19a364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_21
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1261
+        width: 168
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bbe56518d7ab040b8dad916b2d5db3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_22
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1262
+        width: 158
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e701e0ab729d841835d5a5c8a4a5c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_23
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1181
+        width: 135
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b48a7accdf72194da05278695df8912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_24
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1149
+        width: 132
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd421fb6232d8dc45823a1131756a985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_25
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1075
+        width: 233
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492c92cc21f013a49869bc66cc3e647e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_26
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1172
+        width: 172
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cac2f851bb00b54fb104219ba63e24b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1140
+        width: 140
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a9ad741bdbaf54c89b8e180b00cf7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_28
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1143
+        width: 138
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd43de7405bd54d43bdbe68452d0badb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_29
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1136
+        width: 142
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032f6d07ce657cb41a47616f42112e35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_30
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 996
+        width: 393
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b5213d8bdc82648967f21e5021f8da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_31
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 993
+        width: 392
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025c8b5e6d801114187bb6db88d63d52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_32
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 980
+        width: 126
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad8ed456f45e5742826a0e42549c9e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 980
+        width: 112
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f06d3ce1713add4eb606c7df0cd3dde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_34
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 980
+        width: 126
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced399cf8b626cf48bfb4a3772870a75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_35
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1037
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42acd01ec5ed24443b396215e9ebeec9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_36
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 840
+        width: 252
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c684698829e4bf48afc3e844ef59e94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 810
+        width: 168
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf07d3dc94c5dd4099e30440f03bf5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_38
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 809
+        width: 183
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96baf2192fa90da4ebc983db68ccba50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_39
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 878
+        width: 101
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de65832f920f8584fb0edf518c0197d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_40
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 815
+        width: 175
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8316593c97fac2c46a0dcfe4a1e326d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_41
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 890
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9037574acf2a53c43ae0a541dcd8e73c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_42
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 824
+        width: 127
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da978050e3354e845b07e73ed5705baa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_43
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 773
+        width: 429
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151e904c1bf64fb4987a7ba32bafbdad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_44
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 816
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500231f5063999a489b5f24cfe614cb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_45
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 792
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e824085b2ba360a4ca6cb5db3edd155a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 593
+        width: 55
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c3b1dcd6b7c7145a6d2eb61b1e9d8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_47
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 592
+        width: 80
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98557c630a55f744dbdc6a54358569ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_48
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 595
+        width: 49
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48f24cd1483f914595dd95600b29bf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_49
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 597
+        width: 80
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764146e0ff2a6d04aa2bcd22789df9ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_50
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 595
+        width: 56
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96b303773028e24f8558141444c2a5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_51
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 594
+        width: 80
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce5f31850567d54ab77dbcf4726123c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_52
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 603
+        width: 204
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979e71d9cfa80434b900bdfc064fc451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_53
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 604
+        width: 222
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd6571ee6eea1647a2454ee6234d587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_54
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 441
+        width: 229
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0634bdad54eb4b54e8e8417e70b5758b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_55
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 362
+        width: 508
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7fd4126143ff8489a2a9f348cfa1c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_56
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 478
+        width: 428
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf9278f595041141b10f01efe5334a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_57
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 464
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e864031140c8cc943b5ec7d6b4f61c46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_58
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 477
+        width: 169
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d864f6e70b77f242a1daced6043a46e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_59
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 325
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42249bf9b08b164c9aa3cd01683bd3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_60
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 325
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee000c8a5111352469e68db153c6d634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_61
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 376
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9972e6690ec12da4a83bd8672e74f44c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_62
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 376
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e569d87c9449914b929d68b9ea171ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_63
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 376
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242c42ab587bd844a8c5f2b4bfe0156d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_64
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 376
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24e3fd39da8890469a92ff1feca6f7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_65
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 72
+        width: 176
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad740e0838ea284f880a208610c32ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_66
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 74
+        width: 370
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbf88db27d6fb34d84880c6ce294e78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_67
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 318
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eb0010bfb8b904b8014de496542cdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_68
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 318
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee4faed3ec059f41ad4db89fe92791b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_69
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 318
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b74eb832747ec4697146f4b59fa598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_70
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 318
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75becf572f7289849b15b29d2f5ddc58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_71
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 194
+        width: 149
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c08526daae14848a6074c3b9855a43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_72
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 36
+        width: 362
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4ce5f301f40c64b968397884d06797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_73
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 239
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863b0d32f4f8517458277118e83783ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_74
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 239
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea5751419a9951478ddf9b6c07b93cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_75
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 208
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4ba94b5f613c84fbd5e4d8e525dc98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_76
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 208
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba8ce822dd37c845b41a1e8bd2525fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_77
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 208
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6818a7039fab604bac17ca97ebc2fb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_78
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 72
+        width: 209
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeb55271b6191149b0f424a5d844e1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_79
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 153
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0299f405ebe5dd4d87f3926497d4255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_80
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 153
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd470889c5bf3843955a3fba56ad6de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_81
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 126
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd126d098ab276a478fc245fdf744606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_82
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 126
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c1c2510fb70b04799a18a4652af856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_83
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 126
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7a1b0055d55c2419a27eb9cd02f987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_84
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 46
+        width: 135
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae4fdf0fb132aa409efe508a40d154b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_85
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 67
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a5e6ae0ca135345a81a0b875409baa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME_PARTS_86
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 67
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb5c7adfb76988448a54a8ee51d2006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 751, y: -464}
+      - {x: 704, y: -416}
+      - {x: 491, y: -416}
+      - {x: 515, y: -482}
+      - {x: 546, y: -497}
+      - {x: 422, y: -515}
+      - {x: 405, y: -531}
+      - {x: 405, y: -587}
+      - {x: 436, y: -623}
+      - {x: 528, y: -646}
+      - {x: 573, y: -640}
+      - {x: 595, y: -619}
+      - {x: 612, y: -628}
+      - {x: 538, y: -652}
+      - {x: 480, y: -635}
+      - {x: 405, y: -719}
+      - {x: 405, y: -727}
+      - {x: 424, y: -734}
+      - {x: 629, y: -734}
+      - {x: 751, y: -720}
+      - {x: 771, y: -635}
+      - {x: 771, y: -526}
+    - - {x: 315, y: -611}
+      - {x: 311, y: -612}
+      - {x: 315, y: -616}
+      - {x: 327, y: -622}
+      - {x: 282, y: -621}
+      - {x: 279, y: -624}
+      - {x: 274, y: -636}
+      - {x: 277, y: -642}
+      - {x: 270, y: -639}
+      - {x: 266, y: -640}
+      - {x: 266, y: -709}
+      - {x: 284, y: -724}
+      - {x: 405, y: -724}
+      - {x: 405, y: -623}
+      - {x: 391, y: -611}
+    - - {x: -313, y: -703}
+      - {x: -230, y: -703}
+      - {x: -230, y: -621}
+      - {x: -313, y: -621}
+    - - {x: -226, y: -703}
+      - {x: -143, y: -703}
+      - {x: -143, y: -621}
+      - {x: -226, y: -621}
+    - - {x: -943, y: -392}
+      - {x: -967, y: -422}
+      - {x: -967, y: -432}
+      - {x: -951, y: -437}
+      - {x: -941, y: -434}
+      - {x: -933, y: -434}
+      - {x: -932, y: -433}
+      - {x: -937, y: -436}
+      - {x: -949, y: -443}
+      - {x: -961, y: -495}
+      - {x: -963, y: -554}
+      - {x: -952, y: -578}
+      - {x: -943, y: -596}
+      - {x: -929, y: -601}
+      - {x: -928, y: -596}
+      - {x: -925, y: -637}
+      - {x: -950, y: -635}
+      - {x: -967, y: -655}
+      - {x: -967, y: -681}
+      - {x: -951, y: -698}
+      - {x: -818, y: -698}
+      - {x: -787, y: -671}
+      - {x: -787, y: -405}
+      - {x: -826, y: -392}
+    - - {x: 778, y: -469}
+      - {x: 778, y: -691}
+      - {x: 783, y: -698}
+      - {x: 964, y: -698}
+      - {x: 975, y: -690}
+      - {x: 991, y: -633}
+      - {x: 991, y: -490}
+      - {x: 981, y: -469}
+    - - {x: -481, y: -390}
+      - {x: -478, y: -399}
+      - {x: -501, y: -396}
+      - {x: -517, y: -397}
+      - {x: -528, y: -400}
+      - {x: -531, y: -401}
+      - {x: -540, y: -409}
+      - {x: -539, y: -413}
+      - {x: -586, y: -435}
+      - {x: -603, y: -431}
+      - {x: -609, y: -431}
+      - {x: -611, y: -430}
+      - {x: -593, y: -432}
+      - {x: -583, y: -429}
+      - {x: -568, y: -402}
+      - {x: -617, y: -390}
+      - {x: -718, y: -390}
+      - {x: -738, y: -437}
+      - {x: -727, y: -434}
+      - {x: -720, y: -432}
+      - {x: -712, y: -432}
+      - {x: -711, y: -431}
+      - {x: -716, y: -434}
+      - {x: -725, y: -443}
+      - {x: -746, y: -483}
+      - {x: -746, y: -535}
+      - {x: -733, y: -607}
+      - {x: -708, y: -599}
+      - {x: -707, y: -594}
+      - {x: -707, y: -645}
+      - {x: -712, y: -629}
+      - {x: -744, y: -640}
+      - {x: -746, y: -642}
+      - {x: -746, y: -686}
+      - {x: -732, y: -696}
+      - {x: -387, y: -696}
+      - {x: -372, y: -688}
+      - {x: -372, y: -462}
+      - {x: -395, y: -390}
+    - - {x: -47, y: -564}
+      - {x: -59, y: -568}
+      - {x: -59, y: -644}
+      - {x: 9, y: -644}
+      - {x: 9, y: -581}
+      - {x: 2, y: -564}
+    - - {x: 55, y: -564}
+      - {x: 48, y: -565}
+      - {x: 30, y: -567}
+      - {x: 28, y: -584}
+      - {x: 28, y: -644}
+      - {x: 96, y: -644}
+      - {x: 96, y: -590}
+      - {x: 95, y: -578}
+      - {x: 82, y: -568}
+      - {x: 71, y: -564}
+    - - {x: 143, y: -564}
+      - {x: 136, y: -565}
+      - {x: 118, y: -567}
+      - {x: 116, y: -584}
+      - {x: 116, y: -644}
+      - {x: 184, y: -644}
+      - {x: 184, y: -590}
+      - {x: 183, y: -578}
+      - {x: 170, y: -568}
+      - {x: 159, y: -564}
+    - - {x: -313, y: -535}
+      - {x: -313, y: -617}
+      - {x: -230, y: -617}
+      - {x: -230, y: -535}
+    - - {x: -226, y: -535}
+      - {x: -226, y: -617}
+      - {x: -143, y: -617}
+      - {x: -143, y: -535}
+    - - {x: 904, y: -580}
+      - {x: 909, y: -582}
+      - {x: 907, y: -581}
+    - - {x: 351, y: -550}
+      - {x: 362, y: -550}
+      - {x: 367, y: -563}
+      - {x: 374, y: -570}
+      - {x: 377, y: -570}
+      - {x: 390, y: -558}
+      - {x: 413, y: -500}
+      - {x: 413, y: -443}
+      - {x: 260, y: -443}
+      - {x: 260, y: -489}
+      - {x: 271, y: -485}
+      - {x: 279, y: -485}
+      - {x: 280, y: -484}
+      - {x: 275, y: -487}
+      - {x: 266, y: -496}
+      - {x: 260, y: -504}
+      - {x: 265, y: -522}
+      - {x: 269, y: -518}
+      - {x: 270, y: -513}
+      - {x: 269, y: -517}
+      - {x: 267, y: -532}
+      - {x: 279, y: -549}
+      - {x: 285, y: -542}
+      - {x: 295, y: -545}
+      - {x: 298, y: -544}
+      - {x: 301, y: -542}
+      - {x: 302, y: -565}
+      - {x: 308, y: -576}
+      - {x: 320, y: -576}
+      - {x: 343, y: -544}
+      - {x: 346, y: -533}
+      - {x: 346, y: -528}
+      - {x: 346, y: -544}
+    - - {x: 921, y: -530}
+      - {x: 922, y: -545}
+      - {x: 921, y: -540}
+      - {x: 918, y: -537}
+      - {x: 915, y: -537}
+      - {x: 910, y: -542}
+      - {x: 910, y: -555}
+      - {x: 912, y: -557}
+      - {x: 912, y: -554}
+      - {x: 909, y: -552}
+      - {x: 909, y: -550}
+      - {x: 907, y: -546}
+      - {x: 898, y: -548}
+    - - {x: 668, y: -565}
+      - {x: 666, y: -563}
+      - {x: 668, y: -565}
+      - {x: 670, y: -565}
+      - {x: 673, y: -562}
+      - {x: 672, y: -562}
+      - {x: 673, y: -566}
+      - {x: 679, y: -571}
+      - {x: 679, y: -570}
+      - {x: 678, y: -571}
+    - - {x: -44, y: -482}
+      - {x: -59, y: -488}
+      - {x: -59, y: -562}
+      - {x: 9, y: -562}
+      - {x: 9, y: -499}
+      - {x: 1, y: -482}
+    - - {x: 40, y: -482}
+      - {x: 28, y: -492}
+      - {x: 28, y: -562}
+      - {x: 96, y: -562}
+      - {x: 96, y: -490}
+      - {x: 91, y: -482}
+    - - {x: 128, y: -482}
+      - {x: 116, y: -492}
+      - {x: 116, y: -562}
+      - {x: 184, y: -562}
+      - {x: 184, y: -490}
+      - {x: 179, y: -482}
+    - - {x: 625, y: -536}
+      - {x: 624, y: -536}
+      - {x: 625, y: -538}
+    - - {x: -313, y: -450}
+      - {x: -313, y: -531}
+      - {x: -230, y: -531}
+      - {x: -230, y: -451}
+      - {x: -232, y: -449}
+      - {x: -311, y: -449}
+    - - {x: -226, y: -450}
+      - {x: -226, y: -531}
+      - {x: -143, y: -531}
+      - {x: -143, y: -451}
+      - {x: -145, y: -449}
+      - {x: -224, y: -449}
+    - - {x: 585, y: -480}
+      - {x: 584, y: -481}
+      - {x: 585, y: -482}
+      - {x: 588, y: -483}
+      - {x: 589, y: -482}
+    - - {x: 578, y: -469}
+      - {x: 583, y: -472}
+      - {x: 581, y: -471}
+      - {x: 579, y: -471}
+    - - {x: 144, y: -416}
+      - {x: 141, y: -413}
+      - {x: -97, y: -413}
+      - {x: -97, y: -452}
+      - {x: 142, y: -452}
+      - {x: 144, y: -450}
+    - - {x: -311, y: -363}
+      - {x: -313, y: -365}
+      - {x: -313, y: -443}
+      - {x: -311, y: -445}
+      - {x: -232, y: -445}
+      - {x: -230, y: -443}
+      - {x: -230, y: -365}
+      - {x: -232, y: -363}
+    - - {x: -224, y: -363}
+      - {x: -226, y: -365}
+      - {x: -226, y: -443}
+      - {x: -224, y: -445}
+      - {x: -145, y: -445}
+      - {x: -143, y: -443}
+      - {x: -143, y: -365}
+      - {x: -145, y: -363}
+    - - {x: -509, y: -430}
+      - {x: -510, y: -431}
+      - {x: -507, y: -432}
+      - {x: -506, y: -432}
+    - - {x: 998, y: -2}
+      - {x: 584, y: -2}
+      - {x: 486, y: -104}
+      - {x: 486, y: -408}
+      - {x: 975, y: -408}
+      - {x: 968, y: -370}
+      - {x: 923, y: -341}
+      - {x: 998, y: -99}
+    - - {x: 144, y: -358}
+      - {x: 141, y: -355}
+      - {x: -97, y: -355}
+      - {x: -97, y: -394}
+      - {x: 142, y: -394}
+      - {x: 144, y: -392}
+    - - {x: 414, y: -328}
+      - {x: 420, y: -329}
+      - {x: 425, y: -329}
+      - {x: 452, y: -311}
+      - {x: 464, y: -285}
+      - {x: 464, y: -229}
+      - {x: 462, y: -217}
+      - {x: 463, y: -14}
+      - {x: 462, y: -11}
+      - {x: 444, y: -11}
+      - {x: 388, y: -10}
+      - {x: 315, y: -10}
+      - {x: 231, y: -212}
+      - {x: 231, y: -228}
+      - {x: 244, y: -244}
+      - {x: 255, y: -243}
+      - {x: 313, y: -212}
+      - {x: 294, y: -228}
+      - {x: 275, y: -247}
+      - {x: 231, y: -293}
+      - {x: 231, y: -328}
+      - {x: 234, y: -329}
+      - {x: 240, y: -329}
+      - {x: 275, y: -296}
+      - {x: 361, y: -240}
+      - {x: 368, y: -235}
+    - - {x: -99, y: -243}
+      - {x: -106, y: -254}
+      - {x: -106, y: -306}
+      - {x: -56, y: -306}
+      - {x: -55, y: -303}
+      - {x: -55, y: -256}
+      - {x: -56, y: -243}
+    - - {x: 82, y: -228}
+      - {x: 80, y: -230}
+      - {x: 41, y: -243}
+      - {x: 39, y: -245}
+      - {x: 1, y: -258}
+      - {x: -1, y: -260}
+      - {x: -38, y: -273}
+      - {x: -40, y: -275}
+      - {x: -40, y: -291}
+      - {x: -38, y: -293}
+      - {x: 133, y: -293}
+      - {x: 133, y: -228}
+    - - {x: -504, y: -227}
+      - {x: -555, y: -272}
+      - {x: -557, y: -274}
+      - {x: -557, y: -290}
+      - {x: -555, y: -292}
+      - {x: -127, y: -292}
+      - {x: -125, y: -291}
+      - {x: -125, y: -245}
+      - {x: -214, y: -227}
+    - - {x: -803, y: -5}
+      - {x: -826, y: -5}
+      - {x: -839, y: -6}
+      - {x: -841, y: -8}
+      - {x: -840, y: -11}
+      - {x: -841, y: -10}
+      - {x: -853, y: -8}
+      - {x: -869, y: -16}
+      - {x: -869, y: -166}
+      - {x: -864, y: -178}
+      - {x: -785, y: -178}
+      - {x: -785, y: -23}
+      - {x: -786, y: -17}
+    - - {x: -974, y: -12}
+      - {x: -974, y: -177}
+      - {x: -922, y: -177}
+      - {x: -915, y: -175}
+      - {x: -915, y: -14}
+      - {x: -920, y: -12}
+    - - {x: -379, y: 13}
+      - {x: -379, y: 10}
+      - {x: -378, y: 7}
+      - {x: -379, y: 8}
+      - {x: -391, y: 10}
+      - {x: -407, y: 0}
+      - {x: -407, y: -15}
+      - {x: -397, y: -25}
+      - {x: -407, y: -39}
+      - {x: -407, y: -139}
+      - {x: -402, y: -176}
+      - {x: -325, y: -176}
+      - {x: -324, y: -175}
+      - {x: -323, y: -162}
+      - {x: -323, y: 6}
+      - {x: -331, y: 13}
+    - - {x: -743, y: -27}
+      - {x: -743, y: -175}
+      - {x: -690, y: -175}
+      - {x: -690, y: -27}
+    - - {x: -471, y: 3}
+      - {x: -514, y: 3}
+      - {x: -522, y: 2}
+      - {x: -522, y: -174}
+      - {x: -518, y: -175}
+      - {x: -462, y: -175}
+      - {x: -462, y: -32}
+      - {x: -463, y: -1}
+    - - {x: -634, y: -9}
+      - {x: -646, y: -16}
+      - {x: -646, y: -39}
+      - {x: -644, y: -43}
+      - {x: -633, y: -47}
+      - {x: -646, y: -68}
+      - {x: -646, y: -166}
+      - {x: -638, y: -173}
+      - {x: -562, y: -173}
+      - {x: -562, y: -14}
+      - {x: -569, y: -9}
+    - - {x: -262, y: -5}
+      - {x: -262, y: -77}
+      - {x: -249, y: -167}
+      - {x: -69, y: -167}
+      - {x: -54, y: -35}
+      - {x: -54, y: -5}
+    - - {x: 21, y: 6}
+      - {x: 1, y: -2}
+      - {x: 1, y: -133}
+      - {x: 9, y: -166}
+      - {x: 227, y: -166}
+      - {x: 227, y: 6}
+    - - {x: 635, y: 95}
+      - {x: 721, y: 114}
+      - {x: 726, y: 127}
+      - {x: 726, y: 186}
+      - {x: 717, y: 192}
+      - {x: 640, y: 202}
+      - {x: 622, y: 138}
+      - {x: 638, y: 125}
+      - {x: 644, y: 126}
+      - {x: 643, y: 126}
+      - {x: 642, y: 125}
+      - {x: 637, y: 125}
+      - {x: 636, y: 126}
+      - {x: 622, y: 133}
+      - {x: 561, y: 192}
+      - {x: 540, y: 205}
+      - {x: 500, y: 220}
+      - {x: 461, y: 214}
+      - {x: 405, y: 233}
+      - {x: 401, y: 233}
+      - {x: 396, y: 231}
+      - {x: 402, y: 238}
+      - {x: 401, y: 242}
+      - {x: 394, y: 247}
+      - {x: 325, y: 247}
+      - {x: 316, y: 245}
+      - {x: 311, y: 202}
+      - {x: 323, y: 182}
+      - {x: 327, y: 183}
+      - {x: 319, y: 177}
+      - {x: 312, y: 183}
+      - {x: 309, y: 176}
+      - {x: 299, y: 176}
+      - {x: 293, y: 168}
+      - {x: 293, y: 119}
+      - {x: 335, y: 84}
+      - {x: 525, y: 100}
+      - {x: 547, y: 139}
+      - {x: 531, y: 170}
+      - {x: 499, y: 180}
+      - {x: 455, y: 178}
+      - {x: 445, y: 166}
+      - {x: 442, y: 150}
+      - {x: 434, y: 158}
+      - {x: 480, y: 201}
+      - {x: 556, y: 170}
+      - {x: 532, y: 48}
+      - {x: 496, y: 93}
+      - {x: 400, y: 72}
+      - {x: 386, y: 57}
+      - {x: 365, y: 20}
+      - {x: 380, y: 11}
+      - {x: 568, y: 10}
+      - {x: 625, y: 3}
+      - {x: 726, y: 3}
+      - {x: 726, y: 16}
+      - {x: 691, y: 62}
+      - {x: 676, y: 71}
+      - {x: 633, y: 77}
+    - - {x: -147, y: 109}
+      - {x: -153, y: 100}
+      - {x: -153, y: 28}
+      - {x: -151, y: 22}
+      - {x: -88, y: 22}
+      - {x: -67, y: 30}
+      - {x: -59, y: 47}
+      - {x: -59, y: 87}
+      - {x: -78, y: 109}
+    - - {x: -755, y: 199}
+      - {x: -757, y: 146}
+      - {x: -743, y: 157}
+      - {x: -735, y: 157}
+      - {x: -734, y: 158}
+      - {x: -739, y: 155}
+      - {x: -749, y: 147}
+      - {x: -770, y: 108}
+      - {x: -773, y: 98}
+      - {x: -773, y: 43}
+      - {x: -756, y: 39}
+      - {x: -586, y: 39}
+      - {x: -586, y: 191}
+      - {x: -608, y: 199}
+    - - {x: -860, y: 179}
+      - {x: -923, y: 179}
+      - {x: -979, y: 153}
+      - {x: -981, y: 146}
+      - {x: -981, y: 41}
+      - {x: -972, y: 40}
+      - {x: -818, y: 40}
+      - {x: -809, y: 58}
+      - {x: -809, y: 99}
+      - {x: -821, y: 149}
+    - - {x: -241, y: 109}
+      - {x: -274, y: 180}
+      - {x: -293, y: 187}
+      - {x: -369, y: 187}
+      - {x: -416, y: 117}
+      - {x: -416, y: 47}
+      - {x: -394, y: 45}
+      - {x: -273, y: 45}
+      - {x: -237, y: 58}
+      - {x: -237, y: 95}
+    - - {x: -516, y: 90}
+      - {x: -522, y: 84}
+      - {x: -522, y: 52}
+      - {x: -520, y: 46}
+      - {x: -488, y: 46}
+      - {x: -475, y: 54}
+      - {x: -475, y: 85}
+      - {x: -491, y: 90}
+    - - {x: 54, y: 195}
+      - {x: 2, y: 195}
+      - {x: -32, y: 171}
+      - {x: -32, y: 92}
+      - {x: -20, y: 58}
+      - {x: -16, y: 54}
+      - {x: 96, y: 54}
+      - {x: 99, y: 56}
+      - {x: 99, y: 171}
+      - {x: 57, y: 194}
+    - - {x: 819, y: 360}
+      - {x: 749, y: 339}
+      - {x: 730, y: 281}
+      - {x: 730, y: 168}
+      - {x: 831, y: 70}
+      - {x: 936, y: 70}
+      - {x: 986, y: 128}
+      - {x: 986, y: 349}
+      - {x: 978, y: 360}
+    - - {x: -550, y: 168}
+      - {x: -550, y: 109}
+      - {x: -548, y: 108}
+      - {x: -474, y: 108}
+      - {x: -445, y: 124}
+      - {x: -445, y: 175}
+      - {x: -447, y: 180}
+      - {x: -488, y: 192}
+      - {x: -533, y: 192}
+      - {x: -543, y: 187}
+    - - {x: -146, y: 207}
+      - {x: -160, y: 194}
+      - {x: -160, y: 148}
+      - {x: -119, y: 120}
+      - {x: -66, y: 120}
+      - {x: -66, y: 203}
+      - {x: -68, y: 207}
+    - - {x: 381, y: 130}
+      - {x: 380, y: 135}
+      - {x: 379, y: 134}
+      - {x: 382, y: 131}
+      - {x: 385, y: 131}
+      - {x: 390, y: 134}
+      - {x: 390, y: 164}
+      - {x: 386, y: 166}
+      - {x: 384, y: 166}
+      - {x: 379, y: 162}
+      - {x: 379, y: 161}
+      - {x: 384, y: 166}
+      - {x: 384, y: 167}
+      - {x: 381, y: 170}
+      - {x: 377, y: 170}
+      - {x: 372, y: 168}
+      - {x: 373, y: 168}
+      - {x: 379, y: 174}
+      - {x: 379, y: 175}
+      - {x: 377, y: 179}
+      - {x: 360, y: 178}
+      - {x: 364, y: 187}
+      - {x: 367, y: 184}
+      - {x: 368, y: 184}
+      - {x: 371, y: 187}
+      - {x: 370, y: 188}
+      - {x: 371, y: 184}
+      - {x: 377, y: 179}
+      - {x: 385, y: 173}
+      - {x: 410, y: 150}
+      - {x: 407, y: 132}
+    - - {x: 347, y: 174}
+      - {x: 340, y: 173}
+      - {x: 342, y: 172}
+      - {x: 346, y: 175}
+    - - {x: 859, y: 175}
+      - {x: 858, y: 186}
+      - {x: 864, y: 186}
+      - {x: 868, y: 189}
+      - {x: 871, y: 192}
+      - {x: 872, y: 192}
+      - {x: 880, y: 198}
+      - {x: 874, y: 196}
+      - {x: 871, y: 193}
+      - {x: 869, y: 190}
+      - {x: 869, y: 186}
+      - {x: 868, y: 185}
+      - {x: 868, y: 178}
+      - {x: 870, y: 176}
+      - {x: 870, y: 179}
+      - {x: 867, y: 181}
+      - {x: 867, y: 183}
+      - {x: 864, y: 186}
+      - {x: 862, y: 186}
+      - {x: 859, y: 183}
+      - {x: 859, y: 180}
+      - {x: 860, y: 179}
+      - {x: 860, y: 174}
+      - {x: 861, y: 173}
+      - {x: 861, y: 174}
+    - - {x: 830, y: 225}
+      - {x: 830, y: 239}
+      - {x: 846, y: 235}
+      - {x: 850, y: 216}
+    - - {x: -988, y: 356}
+      - {x: -988, y: 229}
+      - {x: -982, y: 219}
+      - {x: -928, y: 210}
+      - {x: -882, y: 210}
+      - {x: -858, y: 236}
+      - {x: -858, y: 356}
+    - - {x: -845, y: 356}
+      - {x: -845, y: 210}
+      - {x: -731, y: 210}
+      - {x: -730, y: 212}
+      - {x: -729, y: 223}
+      - {x: -729, y: 356}
+    - - {x: -697, y: 356}
+      - {x: -716, y: 352}
+      - {x: -716, y: 210}
+      - {x: -589, y: 210}
+      - {x: -587, y: 213}
+      - {x: -586, y: 223}
+      - {x: -586, y: 356}
+    - - {x: 874, y: 228}
+      - {x: 872, y: 228}
+      - {x: 870, y: 220}
+      - {x: 874, y: 216}
+      - {x: 883, y: 218}
+      - {x: 892, y: 225}
+      - {x: 891, y: 226}
+      - {x: 880, y: 223}
+    - - {x: 943, y: 222}
+      - {x: 944, y: 221}
+      - {x: 939, y: 221}
+    - - {x: -93, y: 263}
+      - {x: -93, y: 227}
+      - {x: -92, y: 223}
+      - {x: 303, y: 223}
+      - {x: 303, y: 347}
+      - {x: 293, y: 358}
+      - {x: 194, y: 449}
+      - {x: 42, y: 449}
+      - {x: -7, y: 439}
+    - - {x: -192, y: 391}
+      - {x: -194, y: 389}
+      - {x: -196, y: 375}
+      - {x: -199, y: 376}
+      - {x: -201, y: 380}
+      - {x: -195, y: 389}
+      - {x: -220, y: 428}
+      - {x: -241, y: 458}
+      - {x: -400, y: 458}
+      - {x: -448, y: 448}
+      - {x: -432, y: 384}
+      - {x: -429, y: 383}
+      - {x: -427, y: 383}
+      - {x: -425, y: 385}
+      - {x: -430, y: 380}
+      - {x: -433, y: 379}
+      - {x: -438, y: 374}
+      - {x: -453, y: 363}
+      - {x: -490, y: 333}
+      - {x: -483, y: 327}
+      - {x: -483, y: 325}
+      - {x: -483, y: 327}
+      - {x: -487, y: 331}
+      - {x: -496, y: 337}
+      - {x: -528, y: 290}
+      - {x: -528, y: 226}
+      - {x: -131, y: 226}
+      - {x: -131, y: 325}
+      - {x: -171, y: 393}
+    - - {x: 936, y: 229}
+      - {x: 936, y: 230}
+      - {x: 935, y: 230}
+    - - {x: 820, y: 238}
+      - {x: 819, y: 238}
+      - {x: 816, y: 236}
+      - {x: 816, y: 235}
+      - {x: 817, y: 234}
+    - - {x: 807, y: 241}
+      - {x: 810, y: 243}
+      - {x: 811, y: 242}
+      - {x: 813, y: 242}
+      - {x: 816, y: 245}
+      - {x: 815, y: 246}
+      - {x: 814, y: 245}
+      - {x: 814, y: 244}
+      - {x: 809, y: 242}
+      - {x: 806, y: 239}
+    - - {x: 436, y: 341}
+      - {x: 417, y: 337}
+      - {x: 417, y: 279}
+      - {x: 429, y: 267}
+      - {x: 495, y: 267}
+      - {x: 504, y: 272}
+      - {x: 512, y: 285}
+      - {x: 512, y: 339}
+      - {x: 497, y: 341}
+    - - {x: 858, y: 271}
+      - {x: 859, y: 281}
+      - {x: 853, y: 271}
+      - {x: 854, y: 270}
+    - - {x: 853, y: 287}
+      - {x: 853, y: 288}
+      - {x: 850, y: 291}
+      - {x: 846, y: 291}
+      - {x: 841, y: 289}
+      - {x: 848, y: 295}
+      - {x: 848, y: 296}
+      - {x: 845, y: 299}
+      - {x: 848, y: 295}
+      - {x: 850, y: 291}
+      - {x: 853, y: 289}
+      - {x: 853, y: 287}
+      - {x: 854, y: 286}
+      - {x: 853, y: 287}
+      - {x: 848, y: 283}
+      - {x: 848, y: 282}
+      - {x: 849, y: 281}
+    - - {x: 769, y: 371}
+      - {x: 769, y: 498}
+      - {x: 759, y: 518}
+      - {x: 686, y: 525}
+      - {x: 587, y: 525}
+      - {x: 576, y: 480}
+      - {x: 584, y: 481}
+      - {x: 591, y: 483}
+      - {x: 599, y: 483}
+      - {x: 600, y: 484}
+      - {x: 595, y: 481}
+      - {x: 584, y: 473}
+      - {x: 582, y: 449}
+      - {x: 586, y: 449}
+      - {x: 589, y: 450}
+      - {x: 590, y: 455}
+      - {x: 589, y: 451}
+      - {x: 587, y: 444}
+      - {x: 566, y: 448}
+      - {x: 566, y: 442}
+      - {x: 569, y: 439}
+      - {x: 544, y: 439}
+      - {x: 542, y: 437}
+      - {x: 543, y: 434}
+      - {x: 532, y: 434}
+      - {x: 532, y: 345}
+      - {x: 568, y: 305}
+      - {x: 673, y: 305}
+      - {x: 687, y: 320}
+      - {x: 683, y: 335}
+      - {x: 764, y: 365}
+    - - {x: -471, y: 325}
+      - {x: -470, y: 322}
+      - {x: -467, y: 322}
+      - {x: -465, y: 324}
+      - {x: -466, y: 327}
+      - {x: -469, y: 327}
+    - - {x: -665, y: 482}
+      - {x: -670, y: 476}
+      - {x: -670, y: 366}
+      - {x: -530, y: 366}
+      - {x: -524, y: 376}
+      - {x: -524, y: 482}
+    - - {x: -997, y: 487}
+      - {x: -997, y: 377}
+      - {x: -994, y: 370}
+      - {x: -862, y: 370}
+      - {x: -856, y: 371}
+      - {x: -853, y: 373}
+      - {x: -853, y: 487}
+    - - {x: -694, y: 477}
+      - {x: -698, y: 479}
+      - {x: -816, y: 479}
+      - {x: -836, y: 478}
+      - {x: -836, y: 385}
+      - {x: -832, y: 373}
+      - {x: -694, y: 373}
+    - - {x: 347, y: 555}
+      - {x: 324, y: 541}
+      - {x: 293, y: 511}
+      - {x: 293, y: 398}
+      - {x: 314, y: 379}
+      - {x: 429, y: 379}
+      - {x: 429, y: 513}
+      - {x: 395, y: 555}
+    - - {x: 671, y: 395}
+      - {x: 671, y: 402}
+      - {x: 677, y: 417}
+      - {x: 680, y: 420}
+      - {x: 680, y: 422}
+      - {x: 679, y: 437}
+      - {x: 679, y: 445}
+      - {x: 678, y: 446}
+      - {x: 678, y: 445}
+      - {x: 684, y: 439}
+      - {x: 685, y: 439}
+      - {x: 688, y: 442}
+      - {x: 687, y: 446}
+      - {x: 686, y: 444}
+      - {x: 688, y: 440}
+      - {x: 686, y: 428}
+      - {x: 687, y: 418}
+      - {x: 687, y: 420}
+      - {x: 684, y: 423}
+      - {x: 682, y: 423}
+      - {x: 679, y: 420}
+      - {x: 679, y: 417}
+      - {x: 680, y: 411}
+      - {x: 673, y: 395}
+      - {x: 673, y: 392}
+      - {x: 676, y: 389}
+      - {x: 680, y: 389}
+      - {x: 682, y: 391}
+      - {x: 675, y: 391}
+    - - {x: 926, y: 429}
+      - {x: 935, y: 415}
+      - {x: 940, y: 408}
+      - {x: 943, y: 408}
+      - {x: 945, y: 410}
+      - {x: 944, y: 413}
+      - {x: 968, y: 408}
+      - {x: 979, y: 406}
+      - {x: 979, y: 525}
+      - {x: 969, y: 529}
+      - {x: 917, y: 535}
+      - {x: 833, y: 535}
+      - {x: 822, y: 490}
+      - {x: 830, y: 491}
+      - {x: 837, y: 493}
+      - {x: 845, y: 493}
+      - {x: 846, y: 494}
+      - {x: 841, y: 491}
+      - {x: 828, y: 477}
+      - {x: 803, y: 447}
+      - {x: 803, y: 429}
+      - {x: 807, y: 409}
+      - {x: 833, y: 403}
+      - {x: 841, y: 415}
+      - {x: 842, y: 420}
+      - {x: 872, y: 402}
+      - {x: 885, y: 402}
+      - {x: 885, y: 403}
+      - {x: 886, y: 427}
+      - {x: 904, y: 434}
+      - {x: 924, y: 425}
+    - - {x: 617, y: 411}
+      - {x: 618, y: 412}
+      - {x: 621, y: 421}
+      - {x: 622, y: 427}
+      - {x: 622, y: 430}
+      - {x: 619, y: 433}
+      - {x: 619, y: 434}
+      - {x: 620, y: 435}
+      - {x: 620, y: 440}
+      - {x: 619, y: 440}
+      - {x: 619, y: 435}
+      - {x: 620, y: 434}
+      - {x: 620, y: 432}
+      - {x: 624, y: 427}
+      - {x: 618, y: 411}
+      - {x: 617, y: 412}
+    - - {x: -45, y: 506}
+      - {x: -48, y: 502}
+      - {x: -42, y: 520}
+      - {x: -54, y: 524}
+      - {x: -168, y: 524}
+      - {x: -171, y: 521}
+      - {x: -171, y: 434}
+      - {x: -159, y: 414}
+      - {x: -113, y: 411}
+      - {x: -80, y: 411}
+      - {x: -42, y: 423}
+      - {x: -32, y: 444}
+      - {x: -32, y: 475}
+    - - {x: 640, y: 418}
+      - {x: 642, y: 437}
+      - {x: 644, y: 430}
+      - {x: 649, y: 424}
+    - - {x: 613, y: 425}
+      - {x: 612, y: 431}
+      - {x: 609, y: 428}
+      - {x: 612, y: 422}
+    - - {x: 665, y: 433}
+      - {x: 665, y: 434}
+      - {x: 667, y: 436}
+      - {x: 668, y: 441}
+      - {x: 667, y: 442}
+      - {x: 665, y: 437}
+      - {x: 666, y: 430}
+      - {x: 667, y: 431}
+    - - {x: 603, y: 441}
+      - {x: 606, y: 446}
+      - {x: 607, y: 445}
+      - {x: 607, y: 442}
+      - {x: 610, y: 438}
+      - {x: 610, y: 441}
+      - {x: 606, y: 444}
+      - {x: 605, y: 444}
+      - {x: 602, y: 441}
+      - {x: 602, y: 436}
+      - {x: 603, y: 436}
+    - - {x: 219, y: 605}
+      - {x: 245, y: 563}
+      - {x: 256, y: 562}
+      - {x: 263, y: 579}
+      - {x: 263, y: 608}
+      - {x: 248, y: 634}
+      - {x: 117, y: 634}
+      - {x: 91, y: 622}
+      - {x: 91, y: 617}
+      - {x: 95, y: 610}
+      - {x: 160, y: 468}
+      - {x: 216, y: 468}
+      - {x: 226, y: 470}
+      - {x: 234, y: 560}
+      - {x: 225, y: 581}
+      - {x: 211, y: 580}
+    - - {x: -605, y: 567}
+      - {x: -624, y: 541}
+      - {x: -624, y: 498}
+      - {x: -615, y: 491}
+      - {x: -452, y: 491}
+      - {x: -452, y: 550}
+      - {x: -482, y: 567}
+    - - {x: -870, y: 615}
+      - {x: -996, y: 615}
+      - {x: -997, y: 614}
+      - {x: -997, y: 506}
+      - {x: -990, y: 492}
+      - {x: -853, y: 492}
+      - {x: -853, y: 601}
+      - {x: -856, y: 605}
+    - - {x: -407, y: 565}
+      - {x: -431, y: 550}
+      - {x: -431, y: 492}
+      - {x: -286, y: 492}
+      - {x: -269, y: 506}
+      - {x: -269, y: 559}
+      - {x: -281, y: 565}
+    - - {x: -825, y: 615}
+      - {x: -834, y: 613}
+      - {x: -834, y: 499}
+      - {x: -803, y: 499}
+      - {x: -788, y: 509}
+      - {x: -788, y: 611}
+      - {x: -795, y: 615}
+    - - {x: -708, y: 499}
+      - {x: -708, y: 590}
+      - {x: -721, y: 615}
+      - {x: -776, y: 615}
+      - {x: -779, y: 611}
+      - {x: -779, y: 499}
+    - - {x: -704, y: 499}
+      - {x: -635, y: 499}
+      - {x: -633, y: 500}
+      - {x: -633, y: 587}
+      - {x: -650, y: 620}
+      - {x: -701, y: 620}
+      - {x: -704, y: 598}
+    - - {x: 608, y: 676}
+      - {x: 605, y: 672}
+      - {x: 607, y: 688}
+      - {x: 563, y: 752}
+      - {x: 406, y: 752}
+      - {x: 344, y: 704}
+      - {x: 344, y: 645}
+      - {x: 358, y: 612}
+      - {x: 379, y: 602}
+      - {x: 449, y: 527}
+      - {x: 536, y: 527}
+      - {x: 618, y: 594}
+      - {x: 621, y: 605}
+      - {x: 621, y: 650}
+    - - {x: -206, y: 622}
+      - {x: -206, y: 548}
+      - {x: -205, y: 547}
+      - {x: -136, y: 547}
+      - {x: -135, y: 553}
+      - {x: -135, y: 622}
+    - - {x: -13, y: 592}
+      - {x: -13, y: 597}
+      - {x: -13, y: 581}
+      - {x: -1, y: 549}
+      - {x: 54, y: 549}
+      - {x: 54, y: 678}
+      - {x: 27, y: 682}
+      - {x: -84, y: 682}
+      - {x: -85, y: 681}
+      - {x: -99, y: 647}
+      - {x: -99, y: 639}
+      - {x: -94, y: 637}
+      - {x: -88, y: 640}
+      - {x: -80, y: 640}
+      - {x: -79, y: 641}
+      - {x: -84, y: 638}
+      - {x: -90, y: 631}
+      - {x: -94, y: 624}
+      - {x: -95, y: 620}
+      - {x: -95, y: 608}
+      - {x: -93, y: 606}
+      - {x: -90, y: 607}
+      - {x: -89, y: 612}
+      - {x: -90, y: 608}
+      - {x: -92, y: 593}
+      - {x: -80, y: 574}
+      - {x: -64, y: 580}
+      - {x: -58, y: 582}
+      - {x: -52, y: 586}
+      - {x: -53, y: 572}
+      - {x: -53, y: 555}
+      - {x: -45, y: 549}
+      - {x: -42, y: 549}
+      - {x: -40, y: 550}
+      - {x: -41, y: 560}
+      - {x: -39, y: 574}
+      - {x: -21, y: 581}
+    - - {x: -475, y: 636}
+      - {x: -477, y: 630}
+      - {x: -477, y: 606}
+      - {x: -457, y: 568}
+      - {x: -449, y: 568}
+      - {x: -435, y: 582}
+      - {x: -430, y: 593}
+      - {x: -430, y: 624}
+      - {x: -432, y: 636}
+    - - {x: 756, y: 627}
+      - {x: 749, y: 629}
+      - {x: 761, y: 628}
+      - {x: 769, y: 614}
+      - {x: 772, y: 616}
+      - {x: 774, y: 618}
+      - {x: 773, y: 621}
+      - {x: 793, y: 619}
+      - {x: 822, y: 670}
+      - {x: 822, y: 675}
+      - {x: 822, y: 659}
+      - {x: 842, y: 614}
+      - {x: 849, y: 618}
+      - {x: 856, y: 634}
+      - {x: 862, y: 634}
+      - {x: 852, y: 618}
+      - {x: 875, y: 575}
+      - {x: 939, y: 575}
+      - {x: 960, y: 603}
+      - {x: 960, y: 760}
+      - {x: 655, y: 760}
+      - {x: 655, y: 699}
+      - {x: 659, y: 699}
+      - {x: 666, y: 701}
+      - {x: 674, y: 701}
+      - {x: 675, y: 702}
+      - {x: 670, y: 699}
+      - {x: 659, y: 691}
+      - {x: 657, y: 667}
+      - {x: 661, y: 667}
+      - {x: 664, y: 668}
+      - {x: 665, y: 673}
+      - {x: 664, y: 669}
+      - {x: 662, y: 654}
+      - {x: 668, y: 617}
+      - {x: 688, y: 575}
+      - {x: 738, y: 575}
+      - {x: 745, y: 580}
+      - {x: 744, y: 588}
+      - {x: 753, y: 616}
+    - - {x: -246, y: 721}
+      - {x: -283, y: 721}
+      - {x: -292, y: 720}
+      - {x: -294, y: 718}
+      - {x: -293, y: 715}
+      - {x: -294, y: 716}
+      - {x: -305, y: 716}
+      - {x: -320, y: 713}
+      - {x: -322, y: 706}
+      - {x: -322, y: 580}
+      - {x: -305, y: 576}
+      - {x: -258, y: 576}
+      - {x: -245, y: 583}
+      - {x: -238, y: 641}
+      - {x: -238, y: 717}
+    - - {x: -401, y: 709}
+      - {x: -405, y: 708}
+      - {x: -405, y: 579}
+      - {x: -336, y: 579}
+      - {x: -336, y: 709}
+    - - {x: -529, y: 623}
+      - {x: -557, y: 617}
+      - {x: -557, y: 588}
+      - {x: -543, y: 582}
+      - {x: -503, y: 582}
+      - {x: -484, y: 585}
+      - {x: -480, y: 593}
+      - {x: -480, y: 623}
+    - - {x: -979, y: 737}
+      - {x: -985, y: 734}
+      - {x: -985, y: 631}
+      - {x: -869, y: 631}
+      - {x: -869, y: 737}
+    - - {x: -840, y: 737}
+      - {x: -842, y: 732}
+      - {x: -842, y: 633}
+      - {x: -840, y: 631}
+      - {x: -712, y: 631}
+      - {x: -712, y: 725}
+      - {x: -719, y: 737}
+    - - {x: -569, y: 737}
+      - {x: -686, y: 737}
+      - {x: -697, y: 724}
+      - {x: -697, y: 639}
+      - {x: -696, y: 631}
+      - {x: -569, y: 631}
+      - {x: -567, y: 632}
+      - {x: -567, y: 735}
+    - - {x: -131, y: 720}
+      - {x: -211, y: 720}
+      - {x: -211, y: 637}
+      - {x: -210, y: 631}
+      - {x: -136, y: 631}
+      - {x: -128, y: 654}
+      - {x: -127, y: 664}
+      - {x: -127, y: 711}
+    - - {x: 480, y: 646}
+      - {x: 491, y: 638}
+      - {x: 487, y: 637}
+      - {x: 484, y: 635}
+    - - {x: -470, y: 661}
+      - {x: -466, y: 650}
+      - {x: -458, y: 637}
+      - {x: -440, y: 637}
+      - {x: -430, y: 642}
+      - {x: -430, y: 692}
+      - {x: -431, y: 697}
+      - {x: -456, y: 697}
+      - {x: -470, y: 680}
+    - - {x: -547, y: 681}
+      - {x: -561, y: 671}
+      - {x: -561, y: 654}
+      - {x: -554, y: 640}
+      - {x: -486, y: 640}
+      - {x: -477, y: 647}
+      - {x: -477, y: 672}
+      - {x: -487, y: 681}
+    - - {x: 124, y: 740}
+      - {x: 98, y: 708}
+      - {x: 98, y: 674}
+      - {x: 102, y: 662}
+      - {x: 104, y: 661}
+      - {x: 274, y: 661}
+      - {x: 274, y: 726}
+      - {x: 268, y: 740}
+    - - {x: 469, y: 667}
+      - {x: 467, y: 672}
+      - {x: 468, y: 672}
+      - {x: 470, y: 668}
+    - - {x: 549, y: 682}
+      - {x: 553, y: 678}
+      - {x: 553, y: 679}
+    - - {x: -519, y: 740}
+      - {x: -557, y: 726}
+      - {x: -558, y: 725}
+      - {x: -558, y: 701}
+      - {x: -486, y: 701}
+      - {x: -481, y: 707}
+      - {x: -481, y: 724}
+      - {x: -500, y: 740}
+    - - {x: 866, y: 734}
+      - {x: 860, y: 736}
+      - {x: 867, y: 737}
+      - {x: 868, y: 734}
+    physicsShape: []
+    bones: []
+    spriteID: d29fa3a696ab8354eb05ef593fb6112a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
