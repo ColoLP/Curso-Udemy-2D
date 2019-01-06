@@ -20,8 +20,8 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
-        //StartGame();
-        BacktoMenu();
+        StartGame();
+        //BacktoMenu();
     }    
     
     void Update()
@@ -39,7 +39,7 @@ public class GameManager : MonoBehaviour
         {
             BacktoMenu();
         }
-        if(Input.GetButton("Restart"))
+        if (Input.GetButton("Restart"))
         {
 
         }

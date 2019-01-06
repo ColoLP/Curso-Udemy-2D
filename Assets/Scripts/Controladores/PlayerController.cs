@@ -6,7 +6,7 @@ public class PlayerController : MonoBehaviour
 {
     //Aca ponemos todas las variables que vamos a usar solo acá
     private InputHandler inputHandler;
-    private Animator anim;
+    //private Animator anim;
     private Vector3 startPosition; //Variable para saber en que lugar inicia el personaje. 
 
     //Todo lo que vamos a sacar para afuera. 
@@ -23,10 +23,10 @@ public class PlayerController : MonoBehaviour
     public void StartGame()
     {
         inputHandler = new InputHandler();
-        anim = this.GetComponent<Animator>();
+        //anim = this.GetComponent<Animator>();
 
-        anim.SetBool("isAlive", true);
-        anim.SetBool("isGrounded", true);
+        //anim.SetBool("isAlive", true);
+        //anim.SetBool("isGrounded", true);
 
         this.transform.position = startPosition; // Toma el valor de donde nace el personaje incialmente. Es para el Restart. 
     }
@@ -49,7 +49,7 @@ public class PlayerController : MonoBehaviour
     public void Kill()
     {
         GameManager.sharedInstante.GameOver();
-        anim.SetBool("isAlive", false); //Ejecuto la animacion de morir. 
+        //anim.SetBool("isAlive", false); //Ejecuto la animacion de morir. 
     }
     
 }

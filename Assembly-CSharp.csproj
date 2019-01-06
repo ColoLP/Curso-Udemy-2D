@@ -70,9 +70,12 @@
     <Compile Include="Assets\Scripts\Command Pattern\Command\RunCommand.cs" />
     <Compile Include="Assets\Scripts\Command Pattern\InputHandler.cs" />
     <Compile Include="Assets\Scripts\Command Pattern\RegistryCommandPattern.cs" />
+    <Compile Include="Assets\Scripts\Controladores\AiplaneController.cs" />
+    <Compile Include="Assets\Scripts\Controladores\MolotovController.cs" />
     <Compile Include="Assets\Scripts\Controladores\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\Controladores\TurbaController.cs" />
     <Compile Include="Assets\Scripts\Enumerados\GameStates.cs" />
-    <Compile Include="Assets\Scripts\Managers\DeadManager.cs" />
+    <Compile Include="Assets\Scripts\Managers\DestroyManager.cs" />
     <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Lucas/Documents/Curso Udemy 2D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
