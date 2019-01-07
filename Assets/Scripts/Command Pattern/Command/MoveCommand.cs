@@ -10,10 +10,10 @@ using System;
 
 	public void Execute(GameObject actor)
 	{
+        //Tengo que ajustar mejor el movimiento de personaje. Asi como está no esta muy funcional y estetico. 
         rb = actor.GetComponent<Rigidbody2D>();
 
-        rb.AddForce(new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical")*10));
-
+        rb.AddForce(new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical") * 15));
 
     }
  }

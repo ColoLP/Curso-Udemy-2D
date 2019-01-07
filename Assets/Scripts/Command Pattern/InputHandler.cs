@@ -12,31 +12,11 @@ public class InputHandler {
 	public Command HandleInput()
 	{
 
-        if (Input.GetKeyDown(KeyCode.LeftShift) || Input.GetKeyDown(KeyCode.RightShift))
-		{
-			return new RunCommand();
-		}
-
         if ((Input.GetAxis("Horizontal") != 0 || Input.GetAxis("Vertical") != 0))
         {
             return new MoveCommand();
         }
-
-        if (Input.GetMouseButton(1))
-		{
-			return new FireCommand();
-		}
-
-		if (Input.GetAxis("Horizontal")==0 && Input.GetAxis("Vertical") == 0)
-		{
-			return new IdleCommand();
-		}
-
-		if (Input.GetKeyDown(KeyCode.E))
-		{
-			return new PickUpCommand();
-		}
-	
+        
 		return null;// Si presiono algo que no sea lo que esta arriba GG. 
 
 	} 

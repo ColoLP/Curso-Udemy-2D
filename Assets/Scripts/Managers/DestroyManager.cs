@@ -4,21 +4,14 @@ using UnityEngine;
 
 public class DestroyManager : MonoBehaviour
 {
-    // Este Script se va a encargar de manejar los sucesos de muerte. 
+    // Este Script se va a encargar de manejar los sucesos de muerte y de destruir los objetos que salgan del mapa. 
     string tagName = "";
-
-    /*void OnTriggerEnter2D(Collider2D other)
-    {
-        if(other.CompareTag("Player"))
-        {
-            PlayerController.playerInstante.Kill();
-        }
-    }*/
 
     void OnTriggerExit2D(Collider2D other)
     {
         tagName = other.tag;
 
+        //Puedo ir jugando con las diferentes tags para destruir cosas.
         switch (tagName)
         {
             case "Player":

@@ -218,7 +218,8 @@ MonoBehaviour:
   - {fileID: 7105855807445326469}
   - {fileID: 7105855807257251759}
   - {fileID: 7105855807799858091}
-  molotov: {fileID: 1323860701220141405, guid: 420a8ce22a5189f409dddd07d115371d, type: 3}
+  lstProyectile:
+  - {fileID: 1323860701220141405, guid: 420a8ce22a5189f409dddd07d115371d, type: 3}
 --- !u!1 &7105855807799858091
 GameObject:
   m_ObjectHideFlags: 0

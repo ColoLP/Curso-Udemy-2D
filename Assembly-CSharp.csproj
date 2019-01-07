@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{748C5B0D-7582-06F2-B0A7-1755DF527353}</ProjectGuid>
+    <ProjectGuid>{028CA1E4-E6CC-4726-8E56-66F4BBBD2B9A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,36 +61,35 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Command Pattern\Command\Command.cs" />
-    <Compile Include="Assets\Scripts\Command Pattern\Command\CrouchCommand.cs" />
     <Compile Include="Assets\Scripts\Command Pattern\Command\FireCommand.cs" />
-    <Compile Include="Assets\Scripts\Command Pattern\Command\IdleCommand.cs" />
     <Compile Include="Assets\Scripts\Command Pattern\Command\JumpCommand.cs" />
     <Compile Include="Assets\Scripts\Command Pattern\Command\MoveCommand.cs" />
-    <Compile Include="Assets\Scripts\Command Pattern\Command\PickUpCommand.cs" />
-    <Compile Include="Assets\Scripts\Command Pattern\Command\RunCommand.cs" />
     <Compile Include="Assets\Scripts\Command Pattern\InputHandler.cs" />
     <Compile Include="Assets\Scripts\Command Pattern\RegistryCommandPattern.cs" />
     <Compile Include="Assets\Scripts\Controladores\AiplaneController.cs" />
+    <Compile Include="Assets\Scripts\Controladores\CameraController.cs" />
     <Compile Include="Assets\Scripts\Controladores\MolotovController.cs" />
     <Compile Include="Assets\Scripts\Controladores\PlayerController.cs" />
     <Compile Include="Assets\Scripts\Controladores\TurbaController.cs" />
     <Compile Include="Assets\Scripts\Enumerados\GameStates.cs" />
     <Compile Include="Assets\Scripts\Managers\DestroyManager.cs" />
     <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Managers\LevelBlock.cs" />
+    <Compile Include="Assets\Scripts\Managers\LevelGenerator.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Lucas/Documents/Curso Udemy 2D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Lucas/Documents/Curso-Udemy-2D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Lucas/Documents/Curso Udemy 2D/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Lucas/Documents/Curso-Udemy-2D/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Lucas/Documents/Curso Udemy 2D/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Lucas/Documents/Curso-Udemy-2D/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Lucas/Documents/Curso Udemy 2D/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Lucas/Documents/Curso-Udemy-2D/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/Lucas/Documents/Curso Udemy 2D/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/Lucas/Documents/Curso-Udemy-2D/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -294,19 +293,19 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Advertisements">
-      <HintPath>C:/Users/Lucas/Documents/Curso Udemy 2D/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.dll</HintPath>
+      <HintPath>C:/Users/Lucas/Documents/Curso-Udemy-2D/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Advertisements.Editor">
-      <HintPath>C:/Users/Lucas/Documents/Curso Udemy 2D/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.Editor.dll</HintPath>
+      <HintPath>C:/Users/Lucas/Documents/Curso-Udemy-2D/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/Lucas/Documents/Curso Udemy 2D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/Lucas/Documents/Curso-Udemy-2D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/Lucas/Documents/Curso Udemy 2D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Lucas/Documents/Curso-Udemy-2D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/Lucas/Documents/Curso Udemy 2D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/Lucas/Documents/Curso-Udemy-2D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

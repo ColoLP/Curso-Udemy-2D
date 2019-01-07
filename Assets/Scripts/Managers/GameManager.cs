@@ -20,8 +20,8 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
-        StartGame();
-        //BacktoMenu();
+        //StartGame();
+        BacktoMenu();
     }    
     
     void Update()
